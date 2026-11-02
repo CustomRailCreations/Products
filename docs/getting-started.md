@@ -6,7 +6,8 @@
 
 - Your Pixel Xpress display
 - Power for the display: a USB cable and USB power adapter, or track power if your display is
-  built into a powered car
+  built into a powered car. See [Powering your car](power.md) for the track voltage range and USB
+  adapter size. **Never use track power and USB at the same time.**
 - A phone with the **Pixel Xpress** app and **Bluetooth turned on**
 - Your home **Wi-Fi name and password**. The display needs a **2.4 GHz** network; it can't join
   5 GHz-only networks.

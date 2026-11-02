@@ -16,6 +16,7 @@ slideshows, and you set it up and change its pictures from the **Pixel Xpress** 
 1. **[Getting started](docs/getting-started.md)**: set up a new display with the phone app (5 minutes).
 2. **[Using the mobile app](docs/mobile-app.md)**: upload pictures, make slideshows, manage displays.
 3. **[Display buttons](docs/display-buttons.md)**: what the A, B, X and Y buttons do.
+4. **[Powering your car](docs/power.md)**: track voltage range, USB power, and never using both at once.
 
 ---
 
@@ -27,6 +28,8 @@ slideshows, and you set it up and change its pictures from the **Pixel Xpress** 
   slideshows, rebooting or removing a display, changing Wi-Fi.
 - **[Display buttons](docs/display-buttons.md)**: next/previous picture, pause, info screen, reset Wi-Fi,
   safe mode.
+- **[Powering your car](docs/power.md)**: track voltage (8-22 V AC, best 10-22 V), USB adapters, low
+  throttle and dirty track, never track power and USB at the same time.
 
 ### Updating
 - **[Updating the device software over Wi-Fi](docs/update-over-wifi.md)**: install new software on your
